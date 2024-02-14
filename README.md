@@ -1,6 +1,7 @@
 # 👋 Hello there! Welcome to Aniketh's GitHub Profile! 🚀
 
-![Banner](https://placeimg.com/800/200/tech)
+![welcome-ezgif com-video-to-gif-converter](https://github.com/AnikethRai/AnikethRai/assets/95706188/bb8cb8a5-2436-4cfa-84a6-b1e71b448334)
+
 
 I'm Aniketh Rai, a passionate about Artificial Intelligence based in Massachusetts. Here you'll find a collection of my projects, contributions, and endeavors in Machine Learning, Data Science, and Front-End.
 
