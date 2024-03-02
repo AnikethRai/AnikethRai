@@ -8,10 +8,10 @@ I'm Aniketh Rai, a passionate about Artificial Intelligence based in Massachuset
 ## 🌟 Featured Projects
 
 Here are some of my favorite projects that showcase my skills and interests:
-
-1. [Gemini Explorer](https://github.com/AnikethRai/Gemini_Explorer) - Gemini is a family of multimodal large language models developed by Google DeepMind, serving as the successor to LaMDA and PaLM 2.
-2. [AI-Chatbot](https://github.com/AnikethRai/Altruistic-AI-Chatbot) - An AI Chatbot created using a Deep Learning model.
-3. [Classic Blackjack Game](https://github.com/AnikethRai/blackjack.github.io) - A blackjack game created by using basic front-end technologies.
+1. [Gemini Flights](https://github.com/AnikethRai/mission-gemini_flights_backend_AR) - Gemini Flight Manager is a comprehensive backend system built using FastAPI, designed for managing and simulating flight-related operations. This system provides a robust platform for handling various aspects of flight management, including flight generation, search, and booking functionalities.
+2. [Gemini Explorer](https://github.com/AnikethRai/Gemini_Explorer) - Gemini is a family of multimodal large language models developed by Google DeepMind, serving as the successor to LaMDA and PaLM 2.
+3. [AI-Chatbot](https://github.com/AnikethRai/Altruistic-AI-Chatbot) - An AI Chatbot created using a Deep Learning model.
+4. [Classic Blackjack Game](https://github.com/AnikethRai/blackjack.github.io) - A blackjack game created by using basic front-end technologies.
 
 ## 🛠️ Technologies & Tools
 
